@@ -1,0 +1,11 @@
+# Directories
+bin/
+bin-int/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
